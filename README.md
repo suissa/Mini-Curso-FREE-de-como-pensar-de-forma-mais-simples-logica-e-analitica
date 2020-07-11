@@ -10,6 +10,24 @@ Esse mini curso visa a melhoria na forma de se pensar em qualquer solução medi
 
 Além de ensinar a como corrigir sua forma de pensar você também apenderá como processar dados e obter uma informção, contudo não apenas isso, você também aprenderá a como abstrair essa informação para um nível acima da análise de dados.
 
+## Metodologia
+
+O curso possui apenas 3 desafios simples, porém complicados de serem inicalmente pensado
+
+Como dito anteriormente você aprenderá a aplicar o conceito da Navalha de Ockham, entretanto para que isso seja possível preciso ensinar como identificar a hipótese **mais simples** e como, apartir dela, inferir regras e conceitos universais.
+
+> Se você nunca inferiu uma regra ou fórmula matemática na vida não se preocupe, quase todo mundo que já passei esses exercícios também nunca fez e é exatamente por isso que iremos demonstrar como é simples fazer isso.
+
+Para isso iremos inferir um axioma para cada um dos dois primeiros desafios para depois conseguir criar um teorema final.
+
+Porém eu utilizarei o conceito de axioma nos dois primeiros pois a solução deles é tão óbvia que não precisa ser demonstra, todavia nem 40% das pessoas conseguiram solucionar o primeiro e quem solucionou não conseguiu abstraiu para um nível superior. 
+
+Aliás quem conseguir acertar o segundo desafio e conseguir abstrair o axioma para algum exemplo na vida real já entrará no topo do ranking, espero muito que pelo menos alguém consiga, pois é um conceito tão mas tão simples que ninguém pensa nele. Até porque é um axioma que eu inferi quando estava desenvolvendo a solução do terceiro desafio e garanto que nenhum professor explicou ele dessa forma e acredito que você não ache essa explicação na Internet.
+
+### Conceitos
+
+#### Axioma
+
 ### Pensamento Lógico
 
 ### Pensamento Analíitico
