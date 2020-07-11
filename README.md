@@ -1,0 +1,1 @@
+# Mini-Curso-FREE-de-como-pensar-de-forma-mais-simples-logica-e-analitica
